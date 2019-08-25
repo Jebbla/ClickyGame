@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "belanna",
+      "image":
+        "./images/belanna.jpg"
+    },
+    {
+      "id": 2,
+      "name": "borgqueen",
+      "image":
+        "./images/borgqueen.jpg"
+    },
+    {
+      "id": 3,
+      "name": "chakotay",
+      "image":
+        "./images/chakotay.jpg"
+    },
+    {
+      "id": 4,
+      "name": "harrykim",
+      "image":
+        "./images/harrykim.jpg"
+    },
+    {
+      "id": 5,
+      "name": "kjaneway",
+      "image":
+        "./images/kjaneway.jpg"
+    },
+    {
+      "id": 6,
+      "name": "michaelsullivan",
+      "image":
+        "./images/michaelsullivan.jpg"
+    },
+    {
+      "id": 7,
+      "name": "neelix",
+      "image":
+        "./images/neelix.jpg"
+    },
+    {
+      "id": 8,
+      "name": "seven",
+      "image":
+        "./images/seven.jpg"
+    },
+    {
+      "id": 9,
+      "name": "species8472",
+      "image":
+        "./images/species8472.jpg"
+    },
+    {
+      "id": 10,
+      "name": "thedoctor",
+      "image":
+        "./images/thedoctor.jpg"
+    },
+    {
+      "id": 11,
+      "name": "tomparis",
+      "image":
+        "./images/tomparis.jpg"
+    },
+    {
+      "id": 12,
+      "name": "tuvok",
+      "image":
+        "./images/tuvok.jpg"
+    }
+  ]
